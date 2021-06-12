@@ -16,4 +16,4 @@ This repo contains the code to parse an ICS file. One can use the calendar data 
    - Run `python parser.py`
    - Now give the path to the ICS file you downloaded in 3
    - And give the path where you want to save the csv file
-   - Done!!!
+   - You will see a file named `calendar.csv` at the path entered above
